@@ -10,7 +10,6 @@ Welcome to the Simon Game, a digital adaptation of the iconic memory game that's
 4.The sequence will get longer with each successful round.
 5.If you make a mistake, the game will end and show your score.
 
-
 ## 🎯 Features
 
 - Engaging gameplay that hones your memory.
