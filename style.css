@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    background-color: #011F3F;
+  }
+#title{
+   font-family: 'Special Elite', cursive;
+   font-size: 80px;
+   justify-content: center;
+   color: #FEF2BF;
+   margin: 50px;
+}
+#red{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    
+    border: 10px solid black;
+    border-radius: 20%;
+    
+}
+#green{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+#yellow{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+#blue{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+.contain{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  gap: 30px;
+  width: 310px;
+  height: 310px;
+  margin: 50px;
+  
+}
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+.game-over{
+              
+    background-color: red;
+    opacity: 0.8;
+}
+
+
