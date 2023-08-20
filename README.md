@@ -22,7 +22,7 @@ Welcome to the Simon Game, a digital adaptation of the iconic memory game that's
 ## 🚀 Technologies Used
 
 - HTML, CSS, and JavaScript.
-- 
+  
 
 ## ▶️ Play Now
 
