@@ -22,4 +22,10 @@ Welcome to the Simon Game, a digital adaptation of the iconic memory game that's
 ## 🚀 Technologies Used
 
 - HTML, CSS, and JavaScript.
+- 
+
+## ▶️ Play Now
+
+Experience the challenge firsthand by playing the Simon Game here.
+https://nandithamettu.github.io/Simon-game/
 
